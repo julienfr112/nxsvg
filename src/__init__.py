@@ -1,1 +1,1 @@
-from nxsvg import SVGRenderer, hierarchy_layout
+from .nxsvg import SVGRenderer, hierarchy_layout
